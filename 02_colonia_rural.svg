@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="80" viewBox="0 0 64 80" role="img" aria-label="Colonia rural">
+<title>Colonia rural</title><path d="M32 4C16 4 4 16 4 32c0 20 28 43 28 43s28-23 28-43C60 16 48 4 32 4Z" fill="#A46E36" stroke="#ffffff" stroke-width="2"/>
+<circle cx="32" cy="30" r="22" fill="#ffffff" opacity=".13"/>
+<g transform="translate(8 7) scale(1)" fill="none" stroke="white" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round"><path d="M5 40 24 9l19 31zM24 9v31M16 40l8-14 8 14"/></g>
+<circle cx="49" cy="51" r="10.8" fill="#ffffff" stroke="#A46E36" stroke-width="1.6"/><text x="49" y="55.5" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#A46E36" text-anchor="middle">2</text>
+</svg>
